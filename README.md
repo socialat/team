@@ -20,5 +20,11 @@ Raise a PR/issue to make this section better or to become the member of any of f
 
 ### Sequerity Experts
 
+### Maintainers
+
 ### Interners
-People who are just starting with opensource development or just starting their career in IT.
+We have just started with opensource development and can handle small tasks under your guidence.
+
+
+### Team Maintainers
+We maintain this organization with your suggestion, and contribution.
