@@ -28,8 +28,8 @@ We help you to find & fix critical security issues & vulnerabilities in your pro
 
 ### Maintainers @maintainers
 
-### Interners @interns
-We have just started with opensource development and can handle small tasks under your guidence. We can help you to review documents, small code or UI change, test your application etc.
+### Interns @interns
+We have just started with opensource development and can handle small tasks under your guidance. We can help you to review documents, small code or UI change, test your application etc.
 
 ### Team Maintainers @team
 We maintain this organization with your suggestion, and contribution.
