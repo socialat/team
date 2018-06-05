@@ -1,12 +1,12 @@
 # Team
 Building a Global Team of Opensource Developers
 
-If you expect other opensource developers to contribute in your projects in terms of implementation, testing, review or maintenance then raise a [support request](https://github.com/socialat/team/issues/new?template=support-request.md). Mention the teams described on this page and fill the detail in template.
+**Team** is the team of people who supports opensource development. If you're one of them, join us as a [Team member](https://github.com/socialat/team/issues/new?template=support-request.md). We all together can help others to grow their open source projects.
 
-If you would like to support opensource development community and help others to maintain their opensource projects, please raise a [Team request](https://github.com/socialat/team/issues/new?template=support-request.md). This way people can find you to get your help.
+*Team* is the place where people can find you, discuss with you, and aks you to support their open source project.
 
 ## How does it work
-When someone raise an issue to get support, all the members of the team mentioned in the issue will be notified automatically. Someone from the team can claim to handle that issue.
+When someone raise an issue to [get support](https://github.com/socialat/team/issues/new?template=support-request.md), all the members of the team mentioned in the issue will be notified automatically. Someone from the team can claim to handle that issue.
 
 ## Teams
 Raise a PR/issue to make this section better or to become the member of any of following teams
