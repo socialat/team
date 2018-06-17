@@ -13,3 +13,5 @@ Thanks to take care of open source community and to join us. Please fill the bel
 
 You can join either `intern` or other teams.
 To join *team* team, you need to be active in opensource development from at least last 3 months.
+
+Please [bookmark](https://github.com/socialat/team/stargazers) for future updates.
