@@ -6,10 +6,10 @@ Building a Global Team of Opensource Developers
 *Team* is the place where people can find you, discuss with you, and aks you to support their open source project.
 
 ## How does it work
-When someone raise an issue to [get support](https://github.com/socialat/team/issues/new?template=support-request.md), all the members of the team mentioned in the issue will be notified automatically. Someone from the team can claim to handle that issue.
+When someone raises an issue to [get support](https://github.com/socialat/team/issues/new?template=support-request.md), all the members of the team mentioned in the issue will be notified automatically. Someone from the team can claim to handle that issue.
 
 ## Teams
-Raise a PR/issue to make this section better or to become the member of any of following teams
+Raise a PR/issue to make this section better or to become the member of any of the following teams
 
 ### Code Reviewers @reviewers, @code-reviewers
 We can review your code for design patterns, optimization, performance
@@ -26,7 +26,7 @@ We can help you
 ### Quality Analyst @qa
 We test an application to check if the application is working as expected.
 
-### Secuerity Experts @
+### Security Experts @
 We help you to find & fix critical security issues & vulnerabilities in your project.
 
 ### Maintainers @maintainers
