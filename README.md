@@ -5,6 +5,8 @@ Building a Global Team of Opensource Developers
 
 *Team* is the place where people can find you, discuss with you, and aks you to support their open source project.
 
+![Team ](assets/team_vector.svg)
+
 ## How does it work
 When someone raises an issue to [get support](https://github.com/socialat/team/issues/new?template=support-request.md), all the members of the team mentioned in the issue will be notified automatically. Someone from the team can claim to handle that issue.
 
