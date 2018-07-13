@@ -13,8 +13,7 @@ As you're willing to get support for your open source project, please let us kno
 5. Does it has good test coverage? (Yes/ No/ NA)
 6. Is it first timers friendly? (Yes/ No/ NA)
 7. What kind of support you're looking for?
-8. Have you contributed in any opensource project yet which is not created by you? (Yes/No)
-9. Would you like to join *team* to support other seekers?
+8. Would you like to join *team* to support other seekers?
 
 
 Please [bookmark](https://github.com/socialat/team/stargazers) for future updates.
