@@ -1,5 +1,5 @@
 # Team
-Building a Global Team of Opensource Developers.
+Building a Global Team of Opensource Developers. Join [discord chat](https://discord.gg/Rp8FQ7Z).
 
 **Team** is the team of people who supports opensource development. If you're one of them, join us as a [Team member](https://github.com/socialat/team/issues/new?template=support-request.md). We all together can help others to grow their open source projects.
 
